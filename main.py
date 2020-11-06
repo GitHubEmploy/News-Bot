@@ -15,7 +15,7 @@ import libs.censorshipCheck
 
 ## NOTE: Define Variables
 settings = load(open("settings.json"))
-prefix = environ["PREFIX"]
+prefix = "!"
 start_time = datetime.now()
 
 ## NOTE: Create the Bot...
