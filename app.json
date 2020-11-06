@@ -2,7 +2,7 @@
 {
   "name": "NewsAI",
   "description": "The One And Only, NEWSAI!!!",
-  "repository": "https://github.com/botpress/botpress",
+  "repository": "https://github.com/GitHubEmploy/News-Bot.git",
   "formation": {
     "web": {
       "quantity": 1
@@ -15,7 +15,7 @@
     }
   },
   "success_url": "/",
-  "website": "https://botpress.com/",
+  "website": "https://github.com/GitHubEmploy/News-Bot.git",
   "stack": "container",
   "addons": [
     "heroku-postgresql"
