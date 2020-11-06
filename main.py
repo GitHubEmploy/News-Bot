@@ -7,8 +7,11 @@ import aiohttp, asyncpg
 from json import load
 from sys import exc_info
 from traceback import print_exc
+import os
 from os import environ, listdir
 from datetime import datetime
+
+os.environ['DATABASE_URL'] = <URL>
 
 ## NOTE: Import Custom Libraries
 import libs.censorshipCheck
